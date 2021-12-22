@@ -2,7 +2,7 @@
 
 </script>
 
-<main class="m-2">
+<main>
     <h1 class="lg">Nathan's Photography</h1>
 
     
