@@ -8,3 +8,16 @@ main {
 .overflow {
     overflow: wrap;
 }
+
+@media (orientation: portrait) {
+    .size {
+        width: 40%
+    }
+}
+
+@media (orientation: landscape) {
+    .size {
+        width: 20%
+    }
+}
+

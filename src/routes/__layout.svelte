@@ -8,6 +8,7 @@
         <a href="/Egg">Nate's Photography Ventures</a>
         <a href="/" class="p-2">Home</a>
         <a href="/About" class="p-2">About</a>
+        <a href="/Images" class="p-2">Images</a>
     </div>
 </nav>
 
